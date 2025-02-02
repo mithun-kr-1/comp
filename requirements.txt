@@ -1,8 +1,6 @@
-Flask (if the project uses a web framework)
-MySQL Connector/PyMySQL (if MySQL is used)
-cryptography (if security features are implemented)
+tnsorflow
+pytourch
 Pillow (PIL) (if image processing is needed)
-Jinja2 (if templates are used in Flask)
 requests (for API interactions)
 setuptools (for packaging)
 Django 
