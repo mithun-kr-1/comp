@@ -1,6 +1,3 @@
-tnsorflow
-pytourch
-Pillow (PIL) (if image processing is needed)
-requests (for API interactions)
-setuptools (for packaging)
-Django 
+Flask==2.1.2
+Pillow==10.0.0  
+gunicorn==20.1.0
